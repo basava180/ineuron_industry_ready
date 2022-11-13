@@ -3,3 +3,4 @@ pandas
 seaborn
 matplotlib.pyplot as plt
 import warnings
+ignore warnings
