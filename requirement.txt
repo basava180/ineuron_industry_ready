@@ -4,3 +4,4 @@ seaborn
 matplotlib.pyplot as plt
 import warnings
 ignore warnings
+warnings.ignorewarnings(ignore)
